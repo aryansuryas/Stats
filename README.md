@@ -7,7 +7,7 @@
 | 01/10/2026 | Day 1 | |
 | 02/10/2026 | Day 2 |CS50 Week 8 , HTML completed |
 | 03/10/2026 | Day 3 |Completed HTML CSS |
-| 04/10/2026 | Day 4 | |
+| 04/10/2026 | Day 4 | Nty Enjoy|
 | 05/10/2026 | Day 5 | |
 | 06/10/2026 | Day 6 | |
 | 07/10/2026 | Day 7 | |
