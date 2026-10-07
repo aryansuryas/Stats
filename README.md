@@ -9,7 +9,7 @@
 | 03/10/2026 | Day 3 |Completed HTML CSS |
 | 04/10/2026 | Day 4 | Nty Enjoy|
 | 05/10/2026 | Day 5 | JS 1 hr, cs50 week 9|
-| 06/10/2026 | Day 6 | |
+| 06/10/2026 | Day 6 | nty|
 | 07/10/2026 | Day 7 | |
 | 08/10/2026 | Day 8 | |
 | 09/10/2026 | Day 9 | |
