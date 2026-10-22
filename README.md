@@ -3,7 +3,7 @@
 > **Goal:** Track everything I did during my 3-month Winter Arc — learning, coding, projects, fitness, habits, and personal growth.
 
 | Date | Day | Content / What I Did |
-|---|---|---|
+|---|---|---|--|
  
 | 22/10/2026 | Day 22 | | |
 | 23/10/2026 | Day 23 | | |
