@@ -17,7 +17,7 @@ Here is the updated tracking table for your GitHub repository, adjusted to start
 | 28/10/2026 | Day 7 |y | y|y|
 | 29/10/2026 | Day 8 | gpu lab| | |
 | 30/10/2026 | Day 9 | | |xx |
-| 31/10/2026 | Day 10 | | | |
+| 31/10/2026 | Day 10 | | jur| |
 | 01/11/2026 | Day 11 | | | |
 | 02/11/2026 | Day 12 | | | |
 | 03/11/2026 | Day 13 | | | |
