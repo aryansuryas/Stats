@@ -18,7 +18,7 @@ Here is the updated tracking table for your GitHub repository, adjusted to start
 | 29/10/2026 | Day 8 | gpu lab| | |
 | 30/10/2026 | Day 9 | | |xx |
 | 31/10/2026 | Day 10 | | jur| |
-| 01/11/2026 | Day 11 | | | |
+| 01/11/2026 | Day 11 | did odin + cs50| | |
 | 02/11/2026 | Day 12 | | | |
 | 03/11/2026 | Day 13 | | | |
 | 04/11/2026 | Day 14 | | | |
