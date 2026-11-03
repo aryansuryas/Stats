@@ -19,7 +19,7 @@ Here is the updated tracking table for your GitHub repository, adjusted to start
 | 30/10/2026 | Day 9 | | |xx |
 | 31/10/2026 | Day 10 | | jur| |
 | 01/11/2026 | Day 11 | did odin + cs50| | |
-| 02/11/2026 | Day 12 | ML lab | | |
+| 02/11/2026 | Day 12 | ML lto do nexab | | |
 | 03/11/2026 | Day 13 | | | |
 | 04/11/2026 | Day 14 | | | |
 | 05/11/2026 | Day 15 | | | |
