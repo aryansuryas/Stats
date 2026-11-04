@@ -9,7 +9,7 @@ Here is the updated tracking table for your GitHub repository, adjusted to start
 | Date | Day | DSA Progress | Salesforce Progress | Status / Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | 22/10/2026 | Day 1 |Done 2vid of striver + 25/100 of c++ |  L1 and L2 and repo clean| |
-| 23/10/2026 | Day 2 | noo| | |w
+| 23/10/2026 | Day 2 | noo| |  nnty to do|w
 | 24/10/2026 | Day 3 | L2| | |
 | 25/10/2026 | Day 4 | | | |
 | 26/10/2026 | Day 5 | X|X |X |
