@@ -11,7 +11,7 @@ Here is the updated tracking table for your GitHub repository, adjusted to start
 | 22/10/2026 | Day 1 |Done 2vid of striver + 25/100 of c++ |  L1 and L2 and repo clean| |
 | 23/10/2026 | Day 2 | noo| |  nnty to do|w
 | 24/10/2026 | Day 3 | L2| nty to do| |
-| 25/10/2026 | Day 4 | | | |
+| 25/10/2026 | Day 4 | | nty did| |
 | 26/10/2026 | Day 5 | X|X |X |
 | 27/10/2026 | Day 6 | | h| |
 | 28/10/2026 | Day 7 |y | y|y|
